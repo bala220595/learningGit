@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="task.DragandDrop">
+      <class name="task.NewTest">
         <methods>
-          <include name="draganddrop"/>
+          <include name="f"/>
         </methods>
-      </class> <!-- task.DragandDrop -->
+      </class> <!-- task.NewTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
